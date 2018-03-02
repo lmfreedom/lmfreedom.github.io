@@ -16,9 +16,7 @@
 title: Sanctuary Of Freedom
 email: l.mfreedom@126.com
 description: > # this means to ignore newlines until "baseurl:"
-  What you want ?
-  Do you find it ?
-  Could you face your fate ?
+  What you want ?< /br>Do you find it ?< /br>Could you face your fate ?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lmfreedom
