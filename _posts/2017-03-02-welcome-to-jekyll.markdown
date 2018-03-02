@@ -1,24 +1,213 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-03-02 17:05:13 +0000
+title:  "嗨完初一嗨十五，好多都要遭吃吐！"
+date:   2018-03-02 21:39:13 +0000
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# 嗨完初一嗨十五，好多都要遭吃吐！
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+##嗨完初一嗨十五，好多都要遭吃吐。
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+##来这家小店，帮你换个口味！
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+上班好几天了，无数人一到中午逗在想吃啥子？
+
+你以为是选择综合征传染？
+
+碇子哥以一个资深老司机的身份告诉你们：
+
+##绝对不是！
+
+看一哈过去的半个月，他们都经历了些啥子
+
+从年夜饭到元宵节
+
+一台接一台的酒局饭局
+
+![此处输入图片的描述][1]
+
+舅子、老表、三姑八婆、问东问西不说
+
+还莽起给你拈菜！
+
+![此处输入图片的描述][2]
+
+吃？
+
+遭不住！
+
+不吃？
+
+过年过节得罪人！
+
+好多吃货
+
+##都是楞个遭整报废的
+
+![此处输入图片的描述][3]
+
+![此处输入图片的描述][4]
+
+##看起闷不闷？
+
+![此处输入图片的描述][5]
+
+##嘎嘎吃起——伤不伤！
+
+![此处输入图片的描述][6]
+
+过年期间，出勤率很高的菜
+
+##看到打不打脑壳？
+
+![嗨完初一嗨十五，好多都要遭吃吐！][7]
+
+##昆（kun）鸡昆（kun）鸭，你还整得下去不？
+
+![嗨完初一嗨十五，好多都要遭吃吐！][8]
+
+##香肠腊肉，整没整够？
+
+##从初一到十五，不晓得好多人都要遭吃吐！
+
+再好的东西，吃多了也遭不住。这两天上班了，怕不是要找碇子哥给你换个胃口？
+
+##那还等啥子？就来两碇子！
+  
+![此处输入图片的描述][9]
+
+![此处输入图片的描述][10]
+
+![此处输入图片的描述][11]
+
+##各位客官，南坪东路店就在这里
+
+来，干了这碗抄手，庆祝一下！
+
+新的一年继续Fighting！
+ 
+![嗨完初一嗨十五，好多都要遭吃吐！][12]
+
+###骨汤抄手
+
+每天清早八晨就用最新鲜的扇子骨开始熬，
+
+从来不加那些鬼迷日眼的面面药；
+
+要用最原始的古法工艺熬几个钟头才敢给客官端上桌。
+
+鲜香扑鼻，勒才是正儿八经的骨汤抄手汤底。
+
+![嗨完初一嗨十五，好多都要遭吃吐！][13]
+
+###番茄抄手
+
+我们的番茄是专门到双福市场（重庆最大的菜市场），
+
+选最好的非转基因粉果，
+
+不要说烂的，撇的，
+
+就是稍微有一点点疤疤都要遭甩，
+
+个大个都是比妹儿的脸还光滑；
+
+然后经过剥皮皮、祛蒂蒂儿，炒制、烹煮，
+
+每一颗都经历了3小时以上的严苛处理。
+
+为啥子要楞个？
+
+不是碇子哥冒皮皮，勒种改革开放前最原始的番茄味道，你翻遍全重庆，也只有我们两碇子勒点才吃得到老！
+
+![嗨完初一嗨十五，好多都要遭吃吐！][14]
+
+###假一赔十的土猪肉馅
+
+碇子哥对用Y肉来作肉馅的缺德行为一向很鄙视，
+
+所以，专门和重庆有名的“肉娃”独家签订了【保猪】合同，
+
+只采购农家饲养百分百土猪肉，而且专门选眉毛肉，
+
+懂点做菜的客官都晓得，
+
+一头猪身上只有“点点大一溜”，
+
+逗是为了保证肉香的同时，又更好的口感，
+
+随便啷个吃，都吃不到筋筋
+ 
+
+###标配是两个味碟
+
+黑多人都说碇子哥“操大方”，给抄手配的油碟都是两个——
+
+其实是为了改口，换起换起吃，吃不伤塞。
+
+![嗨完初一嗨十五，好多都要遭吃吐！][15]
+
+吃得辣的——
+
+逗来体验我们的
+
+###独门鲜椒味碟。
+
+高校农科所专门研发的，在我们各人地头种出来的独家鲜椒（外头买不到哈），
+
+在加上七七四十九种调料（没得楞多，夸张说法），
+
+碇子哥可以拍起胸口给你保证，
+
+在重庆，恁个特别的抄手佐料味型，
+
+逗勒一家。
+
+![嗨完初一嗨十五，好多都要遭吃吐！][16]
+
+如果你吃不得辣——
+
+那也没得关系。可以告一哈
+
+###醇香浓厚的麻酱佐料。
+
+老重庆心心念念的八一路过桥抄手配方，还原儿时的记忆。
+
+关键是现在八一路已经吃不到了。
+
+记到，蘸的时候要把佐料豁转哦！
+
+
+小提示：第一次来的朋友，黑多都扭到一个佐料吃。
+
+碇子哥建议正确打开方式————
+
+##要换起换起的蘸！
+
+![此处输入图片的描述][17]
+
+![此处输入图片的描述][18]
+
+  [1]: http://wx1.sinaimg.cn/large/77ec1c99gy1foyrbxzd4oj20zk0m8n08.jpg
+  [2]: http://wx3.sinaimg.cn/large/77ec1c99gy1foyrbylky5j20et08cmxh.jpg
+  [3]: http://wx2.sinaimg.cn/large/77ec1c99gy1foyrbzcwo2j2076064jrd.jpg
+  [4]: http://wx4.sinaimg.cn/large/77ec1c99gy1foyrbzwxpvj20go0b13zm.jpg
+  [5]: http://wx3.sinaimg.cn/large/77ec1c99gy1foyrc0kownj20sg0lcaci.jpg
+  [6]: http://wx1.sinaimg.cn/large/77ec1c99gy1foyrc154hxj20go089q3k.jpg
+  [7]: http://wx3.sinaimg.cn/large/77ec1c99gy1foyrc2e242j20dw099aag.jpg
+  [8]: http://wx2.sinaimg.cn/large/77ec1c99gy1foyrc311kkj20lo0eftby.jpg
+  [9]: http://wx4.sinaimg.cn/large/77ec1c99gy1foyrc3jlerj20z70aw40d.jpg
+  [10]: http://wx4.sinaimg.cn/large/77ec1c99gy1foyrc4qfbwj20z90s0jv0.jpg
+  [11]: http://wx4.sinaimg.cn/large/77ec1c99gy1foyrc46z3jj20z90ip451.jpg
+  [12]: http://wx1.sinaimg.cn/large/77ec1c99gy1foyrc5anxjj20m80v9dja.jpg
+  [13]: http://wx2.sinaimg.cn/large/77ec1c99gy1foyrc6imkmj20m80v9n0h.jpg
+  [14]: http://wx4.sinaimg.cn/large/77ec1c99gy1foyrc9xy51j20t60o44cp.jpg
+  [15]: http://wx3.sinaimg.cn/large/77ec1c99gy1foyrcbzuf5j20m80m8n0p.jpg
+  [16]: http://wx1.sinaimg.cn/large/77ec1c99gy1foyrcdsqzhj20m80m8gpl.jpg
+  [17]: http://wx1.sinaimg.cn/large/77ec1c99gy1foyrcfehcdj20m80heaco.jpg
+  [18]: http://wx3.sinaimg.cn/large/77ec1c99gy1foyrchh180j20m814879r.jpg
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
